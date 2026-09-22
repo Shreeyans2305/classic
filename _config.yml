@@ -78,8 +78,11 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/trillonmelon"
+    - label: "Hugging Face"
+      icon: "fab fa-fw fa-hugging-face"
+      url: "https://huggingface.co/Shreyy2305"
     - label: "LeetCode"
-      icon: "fas fa-fw fa-leetcode"
+      icon: "fas fa-fw fa-code"
       url: "https://leetcode.com/u/ShreeyansV/"
 
 footer:
