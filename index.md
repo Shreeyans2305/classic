@@ -118,6 +118,7 @@ I am currently learning traditional **Machine Learning**, with a focus on buildi
   <div class="dropdown-body">
     <ul>
       <li>In my free time, you'll probably find me completely perplexed by a chess position, or playing badminton with my friends.</li>
+      <li>I have a niche fascination with immersing myself in different cultures, learning their languages, and delving into the history that shaped them.</li>
       <li>I love taking long walks and looking up at the night sky, completely starstruck by the sheer number of stars—and by how far their light has travelled just to meet my eyes.</li>
       <li>I enjoy building and connecting technology to optimize my life, and the lives of those around me.</li>
       <li>And I can't resist getting lost in a good book when it catches me at just the right moment.</li>
