@@ -13,13 +13,14 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
 
-        <!-- Center Pill Toggle -->
+        <!-- Center Pill Toggle (temporarily commented out)
         <div class="site-version-toggle" aria-label="Website version switcher">
           <a href="https://shreeyans2305.github.io/" class="toggle-pill__btn"
             title="Switch to Studio Website">Studio</a>
           <a href="{{ '/' | relative_url }}" class="toggle-pill__btn active"
             title="Classic Website (Current)">Classic</a>
         </div>
+        -->
 
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
