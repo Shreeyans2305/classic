@@ -312,5 +312,25 @@
       margin-inline-end: -360px !important;
     }
   }
+
+  /* ── Mobile: move LinkedIn sidebar to the very end ── */
+  @media (max-width: 63.9375em) {
+    .page__content {
+      display: flex !important;
+      flex-direction: column !important;
+    }
+    .page__content > .sidebar__right {
+      order: 9999 !important;          /* push to the very end */
+      position: static !important;
+      width: 100% !important;
+      margin: 2rem 0 0 0 !important;
+      float: none !important;
+    }
+    /* prevent iframe from hijacking page scroll while inline */
+    .page__content > .sidebar__right iframe {
+      max-height: 450px !important;
+      pointer-events: auto;
+    }
+  }
 </style>
 <!-- end custom head snippets -->
